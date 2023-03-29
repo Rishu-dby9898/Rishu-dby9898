@@ -1,3 +1,7 @@
+<p align="center"> 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
+
 # 💫 About Me:
 Hi there <br>This is the place where I opensource stuff and break things 🤣<br><br>🔭  I’m currently working on something cool 😉<br>🌱  I’m currently learning React + Node.js<br>💬  Ask me about anything related to Javascript/React/Express/HTML/Css/Node.js<br>👨‍💻  Read more about my projects at gautamkrishnar.com<br>⚡  Fun fact: I ❤️ 🐶s and Online Gaming 
 
